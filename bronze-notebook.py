@@ -10,7 +10,7 @@ directory_name = "your_directory_name"
 file_name = "your_file_name.csv"
 
 # Reading data from CSV
-data = pd.read_csv("path_to_your_local_file.csv")
+data = pd.read_csv("local_file.csv")
 
 # Initialize Data Lake service client
 try:
